@@ -14,6 +14,7 @@ void punto2 (){ //Arreglo de 100 letras mayusculas aleatorias y cuenta cuantas v
     }
 
 }
+//tfgedew
 
 int main()
 {
